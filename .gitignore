@@ -26,6 +26,3 @@ lerna-debug.log*
 .settings/
 *.sublime-workspace
 .vscode/
-
-# NPM local config
-.npmrc
